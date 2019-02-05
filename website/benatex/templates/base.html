@@ -1,0 +1,117 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Benatex Global Resources</title>
+  <meta name="description" content="Free Bootstrap Theme by BootstrapMade.com">
+  <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
+
+  <link rel="shortcut icon" type="image/jpg" href="{% static 'new/img/ben-fav.png' %}">
+  <link rel="stylesheet" href="{% static 'new/css/jquery.bxslider.css' %}">
+  <link rel="stylesheet" href="{% static 'new/css/font-awesome.min.css' %}">
+  <link rel="stylesheet" href="{% static 'new/css/bootstrap.min.css' %}">
+  <link rel="stylesheet" href="{% static 'new/css/animate.css' %}">
+  <link rel="stylesheet" href="{% static 'new/css/style.css' %}">
+
+  <!-- =======================================================
+    Theme Name: Baker
+    Theme URL: https://bootstrapmade.com/baker-free-onepage-bootstrap-theme/
+    Author: BootstrapMade.com
+    Author URL: https://bootstrapmade.com
+  ======================================================= -->
+</head>
+
+<body style="padding: 10px; margin-top: 10px; ">
+
+
+{% url 'index:index' as home %}
+{% url 'index:contact' as contact %}
+{% url 'index:about' as about %}
+{% url 'index:services' as services %}
+{% url 'index:testimonials' as testimonials %}
+
+
+  <div class="loader"></div>
+  <div id="myDiv" style="margin-top:10px ">
+    <!--HEADER-->
+    <div class="header">
+      <div class="bg-color">
+        <header id="main-header">
+          <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+                <a class="navbar-brand" href="{% url 'index:index' %}"><img src="{% static 'img/logo.png' %}" alt="logo" style=" height: 60px; margin-top: -10px;" ></a>
+              </div>
+              <div class="collapse navbar-collapse" id="myNavbar">
+                <ul class="nav navbar-nav navbar-right" style="padding: 20px; margin-top: -17px; margin-right: -43px;">
+                  <li {% if request.path == home %}class="active"{% endif %}><a href="{% url 'index:index' %}">Home</a></li>
+                  <li {% if request.path == about %}class="active"{% endif %}><a href="{% url 'index:about' %}">About</a></li>
+                  <li {% if request.path == services %} class="active"{% endif %}><a href="{% url 'index:services' 'consultancy' %}">Services</a></li>
+       
+
+
+
+                 <!--  <li class=""><a href="#service">Services</a></li> -->
+                  <li {% if request.path == testimonials %}class="active"{% endif %}><a href="{% url 'index:testimonials' %}">Testimonial</a></li>
+                  <!-- <li class=""><a href="#testimonial">Testimonial</a></li> -->
+                  <li {% if request.path == contact %}class="active"{% endif %}><a href="{% url 'index:contact' %}">Contact Us</a></li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+        </header>
+        <div class="wrapper">
+
+
+        </div>
+      </div>
+    </div>
+    <!--/ HEADER-->
+    <!---->
+{% block body %}
+{% endblock %}
+    <footer id="footer">
+      <div class="container">
+        <div class="row text-center">
+          <p>&copy; Benatex Global Resources All Rights Reserved.</p>
+          <div class="credits">
+            <!--
+              All the links in the footer should remain intact.
+              You can delete the links only if you purchased the pro version.
+              Licensing information: https://bootstrapmade.com/license/
+              Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Baker
+            -->
+            <!-- Designed by <a href="#">BudesCode</a> -->
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!---->
+  </div>
+<!--   <script src="new/js/jquery.min.js"></script>
+  <script src="new/js/jquery.easing.min.js"></script>
+  <script src="new/js/bootstrap.min.js"></script>
+  <script src="new/js/wow.js"></script>
+  <script src="new/js/jquery.bxslider.min.js"></script>
+  <script src="new/js/custom.js"></script>
+  <script src="new/contactform/contactform.js"></script> -->
+
+  <script src="{% static 'new/js/jquery.min.js' %}"></script>
+  <script src="{% static 'new/js/new.js' %}"></script>
+  <script src="{% static 'new/js/jquery.easing.min.js' %}"></script>
+  <script src="{% static 'new/js/bootstrap.min.js' %}"></script>
+  <script src="{% static 'new/js/wow.js' %}"></script>
+  <script src="{% static 'new/js/jquery.bxslider.min.js' %}"></script>
+  <script src="{% static 'new/js/custom.js' %}"></script>
+  <script src="{% static 'new/contactform/contactform.js' %}"></script>
+
+</body>
+</html>

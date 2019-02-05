@@ -1,0 +1,1914 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lo",
+				"log"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"cons",
+				"Consultancy"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"cgro",
+				"background"
+			],
+			[
+				"de",
+				"detail"
+			],
+			[
+				"p",
+				"phone_number"
+			],
+			[
+				"la",
+				"last_name"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"ls",
+				"last_name"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"C",
+				"CustomUserAdmin"
+			],
+			[
+				"cre",
+				"create_user"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"sy",
+				"syn_list"
+			],
+			[
+				"q",
+				"question_list"
+			],
+			[
+				"op",
+				"opti1"
+			],
+			[
+				"co",
+				"connect"
+			],
+			[
+				"que",
+				"ques_count"
+			],
+			[
+				"rad",
+				"radioButton_43"
+			],
+			[
+				"is",
+				"isChecked"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"ans",
+				"ans_list"
+			],
+			[
+				"en",
+				"englishdrilleruserans"
+			],
+			[
+				"conne",
+				"connect"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pu",
+				"pull-right"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"d",
+				"discription"
+			],
+			[
+				"Cele",
+				"CelebrityTest"
+			],
+			[
+				"tr",
+				"treat_description"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"detail",
+				"detail2"
+			],
+			[
+				"det",
+				"detail2"
+			],
+			[
+				"E",
+				"EmailMultiAlternatives"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"col",
+				"col-sm-3"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"mess",
+				"messages"
+			],
+			[
+				"fr",
+				"fromaddr"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"a",
+				"allchar"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"border-t",
+				"border-top-right-radius"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"MO",
+				"Model"
+			],
+			[
+				"com",
+				"commit"
+			],
+			[
+				"r",
+				"request"
+			],
+			[
+				"se",
+				"setText"
+			],
+			[
+				"text",
+				"textEdit_8"
+			],
+			[
+				"slu",
+				"SlugField"
+			],
+			[
+				"m",
+				"models"
+			],
+			[
+				"Re",
+				"Restaurant"
+			],
+			[
+				"O",
+				"on_delete"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"si",
+				"Singles"
+			],
+			[
+				"U",
+				"UserSalon"
+			],
+			[
+				"salo",
+				"salon_form"
+			],
+			[
+				"sa",
+				"save"
+			],
+			[
+				"au",
+				"auto_now_add"
+			],
+			[
+				"qs",
+				"qs_sum"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"al",
+				"all"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"F",
+				"ForeignKey"
+			],
+			[
+				"View",
+				"view_cart"
+			],
+			[
+				"all",
+				"all_product"
+			],
+			[
+				"curr",
+				"current_cart"
+			],
+			[
+				"Uer",
+				"UserCart"
+			],
+			[
+				"User",
+				"UserCart"
+			],
+			[
+				"cate",
+				"category_slug"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"sl",
+				"slugify"
+			],
+			[
+				"M",
+				"ModelAdmin"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"col-",
+				"col-sm-6"
+			],
+			[
+				"colo",
+				"color-orange"
+			],
+			[
+				"th",
+				"img-thumbnail"
+			],
+			[
+				"Da",
+				"DateField"
+			],
+			[
+				"Ci",
+				"CinemasAdmin"
+			],
+			[
+				"s",
+				"slug"
+			],
+			[
+				"SALON",
+				"salon"
+			],
+			[
+				"Salo",
+				"salons"
+			],
+			[
+				"gen",
+				"gender_choice"
+			],
+			[
+				"Res",
+				"Restaurant"
+			],
+			[
+				"res",
+				"restaurant"
+			],
+			[
+				"sal",
+				"salon2"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"bt",
+				"btn-lg"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"fot",
+				"font-family"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"id",
+				"id_user"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"connect",
+				"connection"
+			],
+			[
+				"radi",
+				"radioButton_20"
+			],
+			[
+				"set",
+				"setChecked"
+			],
+			[
+				"db",
+				"db_new"
+			],
+			[
+				"file",
+				"filename_req"
+			],
+			[
+				"image",
+				"image_path"
+			],
+			[
+				"err",
+				"errMsg\tlet"
+			],
+			[
+				"Vid",
+				"VideoManager"
+			],
+			[
+				"Vide",
+				"VideoQuerySet"
+			],
+			[
+				"quer",
+				"query"
+			],
+			[
+				"u",
+				"unique_slug_generator"
+			],
+			[
+				"Av",
+				"ActivatedRoute\talias"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"by",
+				"bypassSecurityTrustResourceUrl\tmethod"
+			],
+			[
+				"Pip",
+				"PipeTransform\talias"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "benatex/templates/rough.html",
+			"settings":
+			{
+				"buffer_size": 17786,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benatex/templates/services.html",
+			"settings":
+			{
+				"buffer_size": 4910,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/omonbude/Documents/coding/project/jb app/chuka/update_db.py",
+			"settings":
+			{
+				"buffer_size": 1863,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benatex/static/new/js/new.js",
+			"settings":
+			{
+				"buffer_size": 248,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benatex/index/urls.py",
+			"settings":
+			{
+				"buffer_size": 1055,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benatex/templates/about.html",
+			"settings":
+			{
+				"buffer_size": 758,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benatex/templates/index.html",
+			"settings":
+			{
+				"buffer_size": 16248,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/omonbude/Documents/coding/Templates/new templates/templates/modular-business/index.html",
+			"settings":
+			{
+				"buffer_size": 8087,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benatex/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 5054,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "      <ul class=\"nav navbar-nav navbar-right\">\n<li class=\"active\"><a href=\"\">Home</a></li>\n  \n         <li><a href=\"\">Contact Us</a></li>\n\n        <li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Account <span class=\"caret\"></span></a>\n        <ul class=\"dropdown-menu\">\n       \n        <li><a href=\"\">Profile</a></li>\n        <li><a href=\"\">Sign Up</a></li>\n \n        </ul>\n      </li> \n      </ul>\n\n\n                      <ul class=\"nav navbar-nav navbar-right\" style=\"padding: 20px\">\n                  <li {% if request.path == home %}class=\"active\"{% endif %}><a href=\"{% url 'index:index' %}\">Home</a></li>\n                  <li {% if request.path == about %}class=\"active\"{% endif %}><a href=\"{% url 'index:about' %}\">About</a></li>\n                  <!-- <li {% if request.path == services %}class=\"active\"{% endif %}><a href=\"{% url 'index:services' %}\">Services</a></li> -->\n                          <li class=\"dropdown\"><a class=\"dropdown-toggle\" data-toggle=\"dropdown\">Services <span class=\"caret\"></span></a>\n        <ul class=\"dropdown-menu\"> \n          <li><a href=\"{% url 'index:consultancy' %}\">CONSULTANCY</a></li>\n          <li><a href=\"{% url 'index:engineering' %}\">ENGINEERING</a></li>\n          <li><a href=\"{% url 'index:oil_and_gas' %}\">OIL AND GAS</a></li>\n          <li><a href=\"{% url 'index:jenitorial' %}\">JANITORIAL</a></li>\n          <li><a href=\"{% url 'index:civil_works' %}\">CIVIL WORKS</a></li>\n          <li><a href=\"{% url 'index:logistics_and_haulvage' %}\">LOGISTICS AND HAULVAGE</a></li>\n          <li><a href=\"{% url 'index:real_estates' %}\">REAL ESTATES</a></li>\n          <li><a href=\"{% url 'index:general_contract' %}\">GENERAL CONTRACTS</a></li>\n         </ul>\n      </li> \n\n\n\n                 <!--  <li class=\"\"><a href=\"#service\">Services</a></li> -->\n                  <li {% if request.path == testimonials %}class=\"active\"{% endif %}><a href=\"{% url 'index:testimonials' %}\">Testimonial</a></li>\n                  <!-- <li class=\"\"><a href=\"#testimonial\">Testimonial</a></li> -->\n                  <li {% if request.path == contact %}class=\"active\"{% endif %}><a href=\"{% url 'index:contact' %}\">Contact Us</a></li>\n                </ul>",
+			"settings":
+			{
+				"buffer_size": 2218,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benatex/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 3858,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benatex/static/new/css/style.css",
+			"settings":
+			{
+				"buffer_size": 15456,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benatex/index/views.py",
+			"settings":
+			{
+				"buffer_size": 1001,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benatex/templates/general_contract.html",
+			"settings":
+			{
+				"buffer_size": 115,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benatex/templates/real_estates.html",
+			"settings":
+			{
+				"buffer_size": 111,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benatex/templates/logistics_and_haulvage.html",
+			"settings":
+			{
+				"buffer_size": 122,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benatex/templates/civil_works.html",
+			"settings":
+			{
+				"buffer_size": 109,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benatex/templates/jenitorial.html",
+			"settings":
+			{
+				"buffer_size": 109,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benatex/templates/oil_and_gas.html",
+			"settings":
+			{
+				"buffer_size": 110,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benatex/templates/consultancy.html",
+			"settings":
+			{
+				"buffer_size": 110,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benatex/templates/testimonials.html",
+			"settings":
+			{
+				"buffer_size": 111,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "benatex/templates/engineering.html",
+			"settings":
+			{
+				"buffer_size": 110,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/omonbude/Documents/coding/project/jb app/project3.py",
+			"settings":
+			{
+				"buffer_size": 250825,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "mark",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Bernatex/New folder/website/benatex",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Bernatex/New folder/website/benatex/index",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Bernatex/New folder/website/benatex/static",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Bernatex/New folder/website/benatex/static/js",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Bernatex/New folder/website/benatex/static/new",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Bernatex/New folder/website/benatex/static/new/css",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Bernatex/New folder/website/benatex/static/new/js",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Bernatex/New folder/website/benatex/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/omonbude/Documents/coding/project/school management/templates/free-educational-responsive-web-template-webEdu/index.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Bernatex/New folder/website/benatex/templates/rough.html",
+		"/E/gt",
+		"/C/Users/omonbude/Documents/coding/PyQt/PyQt5_gpl-5.11.2/examples/graphicsview/embeddeddialogs/embeddeddialogs.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/project2.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/project3.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/movie.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/cart/views.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/test.py",
+		"/C/Users/omonbude/Documents/coding/project/jb app/test2.py",
+		"/E/login.py",
+		"/C/Users/omonbude/Documents/test.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/index.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/account/views.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/account/models.py",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Bernatex/index.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/rough2.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/startbootstrap-heroic-features-master/index.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/index.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/css/style.css",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Bernatex/css/style.css",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/catalog/urls.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/account/urls.py",
+		"/C/Users/omonbude/Documents/coding/project/school management/text.txt",
+		"/C/Users/omonbude/Documents/coding/project/a treat/magnews/index.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/Index.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/account/forms.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/account/admin.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/atreat/settings.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/rough5.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/rough.txt",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/change_password_email.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/change_password_email.txt",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/template/index.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/change_password_success.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/change_password_code.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/change_password.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/reset_password_email2.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/rough.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/static/css/news.css",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/static/css/news_responsive.css",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/static/css/main_style.css",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/base.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/magnews/css/style.css",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/home.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/meal-detail.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/catalog/models.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/catalog/admin.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/magnews/index.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/css/jcarousel.css",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/css/flexslider.css",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/css/custom-fonts.css",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/css/cslider.css",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/css/bootstrap-responsive.css",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/css/bootstrap.css",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Flattern/css/animate.css",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Gomez/index.html",
+		"/E/New Text Document.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Serenity/components.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Serenity/careers.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Serenity/contact.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Serenity/agsmeis.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Serenity/services.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Serenity/index.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Serenity/register.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/Serenity/portfolio-detail.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/change_password_confirm.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/registration_success.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/rough3.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/reset_password_complete.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/cinemas_detail.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/contact.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/about.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/sign_up.html",
+		"/E/authenticate_section/forms.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/reset_password.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/reset_password_confirm.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/reset_password_done.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/reset_password_email.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/templates/template/corlate-free-responsive-business-html-template/index.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/templates/template/corlate-free-responsive-business-html-template/js/index.html",
+		"/C/Users/omonbude/Documents/bootstrap1/text-to-speech.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/tt.html",
+		"/C/Users/omonbude/Documents/bootstrap1/convert-tss.py",
+		"/C/Users/omonbude/Documents/bootstrap1/js/test.js",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/account/login.html",
+		"/E/SNISHER/settings.py",
+		"/E/SNISHER/views.py",
+		"/E/authenticate_section/views.py",
+		"/E/authenticate_section/email_auth.py",
+		"/E/authenticate_section/urls.py",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/b use/index.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/b use/css/app.css",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/order/views.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/comedy-events.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/comedy-detail.html",
+		"/C/Users/omonbude/Documents/bootstrap1/new 1.html",
+		"/C/Users/omonbude/Documents/b use/index.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/catalog/views.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/cart/models.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/businessdetail.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/cinemas.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/meal.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/moviedetail.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/musicdetail.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/tvhostdetail.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/order.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/registration/password_reset_complete.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/registration/password_reset_confirm.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/registration/password_reset_done.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/registration/password_reset_email.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/registration/password_reset_subject.txt",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/registration/password_reset_form.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/cart-detail.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/test.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/order/models.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/cart/admin.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/cart/forms.py",
+		"/E/pa/html2.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/order/urls.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/payment.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/templates/template/corlate-free-responsive-business-html-template/about-us.html",
+		"/C/Users/omonbude/Documents/coding/Templates/Squadfree/index.html",
+		"/C/Users/omonbude/Documents/coding/bootstrap/Bootstrap templates/corlate-free-responsive-business-html-template/index.html",
+		"/C/Users/omonbude/Documents/coding/project/Mr. Chuks/templates/template/business_co-web/index.html",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/cart/urls.py",
+		"/C/Users/omonbude/Documents/coding/project/a treat/website/atreat/templates/salon-detail.html",
+		"/E/pa/html.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/Users/jmitch/Dropbox/cfe/v2/src",
+			"/Users/cfe/Dev/djangular/client/src/app",
+			"/Users/jmitch/Desktop/ecommerce-2/src",
+			"/Users/jmitch/Dropbox/projects/kpj",
+			"/Users/jmitch/Dropbox/projects/kpj/kpj",
+			"/Users/jmitch/Dropbox/projects/",
+			"/Users/jmitch/Dropbox/projects/kpj/kpj",
+			"<open files>",
+			"/Users/jmitch/Dropbox/projects/kpj/kpj",
+			"/Users/jmitch/Dropbox/projects/kpj",
+			"/Users/jmitch/Dropbox/cfe/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nav-tabs",
+			"test",
+			"max",
+			"150",
+			"\" style=\"background-color: red",
+			"items",
+			".jpg",
+			"nav",
+			"header",
+			"bg-color",
+			"wrapper",
+			"movie",
+			"try",
+			"exist",
+			"Does",
+			"exists",
+			"profile",
+			"exists",
+			"register",
+			"request",
+			"CreateProfieForm1",
+			"CreateProfie",
+			"endenglishdriller(self)",
+			"endenglishdriller()",
+			"update",
+			"synonymans",
+			"no",
+			"endenglishdriller",
+			"lcdNumber_3",
+			"endenglishdriller",
+			"scroll",
+			"timer",
+			"timer3",
+			"lcdNumber_2",
+			"timer3",
+			"lcdNumber_2",
+			"spinBox_5",
+			"label_71",
+			"lcdNumber_3",
+			"print",
+			"ans_list",
+			"UPDATE",
+			"lcdNumbe",
+			"insert",
+			"radioButton_45",
+			"hide",
+			"setCurrentIndex",
+			"50",
+			"setCurrent",
+			"0",
+			"Curren",
+			"stacked",
+			"radioButton_44",
+			"good?",
+			"Whats's the synonym of good?",
+			"Whats's",
+			"What's",
+			"spinBox_3",
+			"session",
+			"name",
+			"treat_description",
+			"Json",
+			"url",
+			"send_mail",
+			"setti",
+			"form.c",
+			"order",
+			"dropdown1",
+			"dropdown",
+			"string",
+			"random",
+			"dropdown1",
+			"dropdow",
+			"cname",
+			"name",
+			"file",
+			"EmailPasswordReset",
+			"PasswordResetEmail",
+			"as",
+			"img",
+			"static",
+			"img",
+			"test",
+			"Celebrity Treat Bid",
+			"info",
+			"name",
+			"DoesNot",
+			"delete_movie",
+			"movie",
+			"celeb_test",
+			"DUIS URBANITA",
+			"Latest",
+			"href",
+			"saul",
+			"header",
+			"Fully",
+			"Fully responsive",
+			"Some",
+			"Some of recent works",
+			"We've",
+			"We've created more than 5000 websites this year",
+			"Flat and trendy bootstrap template",
+			"toggle-link",
+			"Sign up",
+			"Call To Action",
+			"OUR TEAM",
+			"OUR PORTFOLIO",
+			"intro-content",
+			"import",
+			"loc",
+			"slugify",
+			"send_mail",
+			"setting",
+			"Sign Up",
+			"Go to",
+			"Go",
+			"span12",
+			"OUR GOALS IN 12 MONTHS",
+			"EVERY PARTICIPANT WILL FIND HIS PLACE",
+			"Dropdown menus",
+			"Striped bars",
+			"Slider post format with flexslider",
+			"Responsive bootstrap",
+			"reset_password_confirm",
+			"\n\t\t",
+			"ChangePassword",
+			"change_password",
+			"post"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\" style=\"background-color: rgba(10,10,10,.8); margin: 5px; border:1px solid transparent; border-radius: 2em;",
+			"\" style=\"background-color: red",
+			"\"/static/ang/assets/",
+			".cfe-load-comments",
+			"jmitch=#",
+			"'",
+			"ecommerce2",
+			"Control Guidance Solutions, LLC",
+			"class=\"fa fa-check fa-2x\"",
+			"img/apple-touch-icon-152.png",
+			"{})",
+			"render(request,",
+			"render(",
+			")",
+			"render(request,",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com",
+			"Coding For Entrepreneurs",
+			"CodingForEntrepreneurs.com"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "benatex/templates/rough.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17786,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								904,
+								904
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1660.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "benatex/templates/services.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4910,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4544,
+								4551
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 29.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/omonbude/Documents/coding/project/jb app/chuka/update_db.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 263.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "benatex/static/new/js/new.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "benatex/index/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1055,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "benatex/templates/about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								711,
+								711
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "benatex/templates/index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 16248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1822,
+								1673
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 265.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/omonbude/Documents/coding/Templates/new templates/templates/modular-business/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8087,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3765,
+								2643
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "benatex/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2460,
+								2406
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2218,
+								433
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "benatex/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3858,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "benatex/static/new/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								698,
+								657
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 459.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "benatex/index/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1001,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "benatex/templates/general_contract.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "benatex/templates/real_estates.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "benatex/templates/logistics_and_haulvage.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "benatex/templates/civil_works.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "benatex/templates/jenitorial.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "benatex/templates/oil_and_gas.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "benatex/templates/consultancy.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "benatex/templates/testimonials.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 111,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "benatex/templates/engineering.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "/C/Users/omonbude/Documents/coding/project/jb app/project3.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 250825,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 248.0
+	},
+	"output.find_results":
+	{
+		"height": 508.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"templates\\base.html"
+			],
+			[
+				"email",
+				"templates/team/email_instructions.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

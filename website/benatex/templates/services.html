@@ -1,0 +1,71 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+{% block body %}
+
+<div class="container">
+<div class="row">
+<div class="col-sm-12">
+	 
+  <h2>Services</h2>
+  <ul class="nav nav-pills">
+    <li {% if 'consultancy' in request.path %} class="active" {% endif %}><a data-toggle="pill" href="#Consultancy">Consultancy</a></li>
+    <li {% if 'engineering' in request.path %} class="active" {% endif %}><a data-toggle="pill" href="#engineering">Engineering</a></li>
+    <li {% if 'oilandgas' in request.path %} class="active" {% endif %}><a data-toggle="pill" href="#oilandgas">Oil Gnd Gas</a></li>
+    <li {% if 'janitorial' in request.path %} class="active" {% endif %}i><a data-toggle="pill" href="#janitorial">Janitorial</a></li>
+    <li {% if 'civilworks' in request.path %} class="active" {% endif %}><a data-toggle="pill" href="#civilworks">Civil Works</a></li>
+    <li {% if 'logisticsandhaulvages' in request.path %} class="active" {% endif %}><a data-toggle="pill" href="#logisticsandhaulvages">Logistics And Haulvages</a></li>
+    <li {% if 'realestates' in request.path %} class="active" {% endif %}><a data-toggle="pill" href="#realestates">Real Estates</a></li>
+    <li {% if 'generalcontract' in request.path %} class="active" {% endif %}><a data-toggle="pill" href="#general">General Contracts</a></li>
+	<!-- <li><a data-toggle="pill" href="#realestates">Real Estates</a></li>
+	 -->  
+  </ul>
+  
+  <div class="tab-content">
+    <div id="Consultancy" {% if 'consultancy' in request.path %} class="tab-pane fade in active" {% else %} class="tab-pane fade" {% endif %}>
+      <h3>Consultancy</h3>
+      <p>We cater for every company and individual that requires strategitic planning, expert knowledge and management skills to fix failing aspects of their businesses or lifestyle. We also provide sevices to building entrepreneurs seeking guidance on how to efficiently start, run and grow successful businesses</p>
+    </div>
+
+    <div id="engineering" {% if 'engineering' in request.path %} class="tab-pane fade in active" {% else %} class="tab-pane fade" {% endif %}>
+      <h3>Engineering</h3>
+      <p>We make use of scientific principles and applications into the manufacturing and processing of materials into useful products for human kind. Our operations include manufacturing, production and chemicals</p>
+    </div>
+    <div id="oilandgas" {% if 'oilandgas' in request.path %} class="tab-pane fade in active" {% else %} class="tab-pane fade" {% endif %}>
+      <h3>Oil And Gas</h3>
+      <p>We are into exploraton, production and distribution of oil and gas to their final products and  have developed new technology to better identify and access oil and gas</p>
+    </div>
+    <div id="janitorial" {% if 'janitorial' in request.path %} class="tab-pane fade in active" {% else %} class="tab-pane fade" {% endif %}>
+      <h3>Janitorial</h3>
+     <p>We are simply caretakers. Benatex cleaning services specialises in delivering quality, industrial and domestic cleaning services.<br> We are customer focused hygiene firm and our objective is to consistently provide excellent cleaning services to our client . Our service include post construction and pre-more in cleaning, industrial and domestic cleaning services,fumigation and pest control services, facade cleaning, house keeping and laundry services</p>
+    </div>
+  <div id="civilworks" {% if 'civilworks' in request.path %} class="tab-pane fade in active" {% else %} class="tab-pane fade" {% endif %}>
+      <h3>Civil Works</h3>
+     <p>We engage professionally in the building and construction of state of art facilities for our clients. <br>
+     We are involved in the construction of roads, high ways, water systems, server systems, water plants, water supply projects</p>
+    </div>
+  <div id="logisticsandhaulvages" {% if 'logisticsandhaulvages' in request.path %} class="tab-pane fade in active" {% else %} class="tab-pane fade" {% endif %}>
+      <h3>Logistics And Haulvages</h3>
+     <p>
+     Logistics And HaulvagesLogistics And HaulvagesLogistics And HaulvagesLogistics And HaulvagesLogistics And HaulvagesLogistics And HaulvagesLogistics And HaulvagesLogistics And HaulvagesLogistics And Haulvages
+     </p>
+    </div>
+  <div id="realestates" {% if 'realestates' in request.path %} class="tab-pane fade in active" {% else %} class="tab-pane fade" {% endif %}>
+      <h3>Real Estates</h3>
+     <p>Real EstatesReal EstatesReal EstatesReal EstatesReal EstatesReal EstatesReal EstatesReal EstatesReal EstatesReal EstatesReal Estates</p>
+    </div>
+
+
+    <div id="general" {% if 'general' in request.path %} class="tab-pane fade in active" {% else %} class="tab-pane fade" {% endif %}>
+      <h3>General Contracts</h3>
+      <p>General ContractsGeneral ContractsGeneral ContractsGeneral ContractsGeneral ContractsGeneral ContractsGeneral ContractsGeneral Contracts</p>
+    </div>
+  </div>
+</div>
+
+</div>	
+</div>
+
+
+
+
+{% endblock %}

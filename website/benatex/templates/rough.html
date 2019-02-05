@@ -1,0 +1,387 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+<style>
+  body{
+    background-color: red;
+
+  }
+ 
+</style>
+
+{% block body %}
+
+
+
+
+
+
+
+
+          <div class="container" style="margin-top: -20px; margin-bottom: 50px;">
+            <div class="row">
+
+    <div id="myCarousel" class="carousel slide" data-ride="carousel" style="margin-top: 10px;">
+     
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <!--   <li data-target="#myCarousel" data-slide-to="1"></li> -->
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+
+        <div class="item active">
+          <img src="{% static 'new/img/Ben1.png' %}" alt="First slide">
+          <div class="container">
+          </div>
+        </div>
+
+        <div class="item">
+          <img src="{% static 'new/img/ben5.png' %}" alt="Second slide">
+          <div class="container">
+          </div>
+        </div>
+
+        <div class="item">
+          <img src="{% static 'new/img/ben3.png' %}" alt="Third slide">
+          <div class="container">
+          </div>
+        </div>
+
+      </div>
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+            </div>
+          </div>
+
+
+
+    <section id="feature" class="section-padding wow fadeIn delay-05s">
+      <div class="container">
+        <div class="row">
+            <center><h3>Our Services</h3></center>
+          <div class="col-md-3 col-sm-6 col-xs-6 " style="font-size: 10pt">
+            <div class="wrap-item text-center">
+              <span class="item-img">
+                <img src="{% static 'new/img/innovation.png' %}">
+              </span>
+              <h3 class="pad-bt15" style="font-size: 15px; margin-bottom: 5px;" >CONSULTANCY</h3>
+              <p>We cater for every company and individual that requires strategitic..<br><a href="{% url 'index:services' 'consultancy' %}">Read More...</a>
+             <!--  <button class="btn btn-primary btn-sm">Read</button> -->
+                <!-- <button  class="btn btn-primary">Read More...</button> --><!-- , expert knowledge and management skills to fix failing aspects of their businesses or lifestyle. We also provide sevices to building entrepreneurs seeking guidance on how to efficiently start, run and grow successful businesses. --></p>
+            </div>
+          </div> 
+
+<div class="col-md-3 col-sm-6 col-xs-6 " style="font-size: 10pt">
+            <div class="wrap-item text-center">
+              <div class="item-img">
+                <img src="{% static 'new/img/services3.png' %}">
+              </div>
+              <h3 class="pad-bt15" style="font-size: 15px; margin-bottom: 5px;" >ENGINEERING</h3>
+              <p>We make use of scientific principles and applications into the manufacturing<br> <a href="{% url 'index:services' 'engineering' %}">Read More...</a> <!-- <button  class="btn btn-primary">Read More...</button> -->  <!-- processing of materials into useful products for human kind. Our operations include manufacturing, production and chemicals --></p>
+            </div>
+          </div>
+<div class="col-md-3 col-sm-6 col-xs-6 " style="font-size: 10pt">
+            <div class="wrap-item text-center">
+              <div class="item-img">
+                <img src="{% static 'new/img/oil.png' %}">
+              </div>
+              <h3 class="pad-bt15" style="font-size: 15px; margin-bottom: 5px;" >OIL AND GAS</h3>
+              <p>We are into exploraton, production, production and distribution of oil <br> <a href="{% url 'index:services' 'oilandgas' %}">Read More...</a></p>
+            </div>
+          </div>
+<div class="col-md-3 col-sm-6 col-xs-6 " style="font-size: 10pt">
+            <div class="wrap-item text-center">
+              <div class="item-img">
+                <img src="{% static 'new/img/trash.png' %}">
+              </div>
+              <h3 class="pad-bt15" style="font-size: 15px; margin-bottom: 5px;" >JANITORIAL</h3>
+              <p>We are simply caretakers. Benatex cleaning services specialises in<br> <a href="{% url 'index:services' 'janitorial' %}" onclick="test()">Read More...</a> <!-- delivering quality industrial and domestic cleaning services. We are customer focused hygiene firm and our objective is to consistently provide excellent cleaning services to our client . Our service include post construction and pre-more in cleaning, industrial and domestic cleaning --></p>
+            </div>
+          </div>
+</div></div></section>
+
+
+<section id="" class=" wow fadeIn delay-05s" style="margin-top: 40px;">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-md-3 col-sm-6 col-xs-6 " style="font-size: 10pt">
+            <div class="wrap-item text-center">
+              <div class="item-img">
+                <img src="{% static 'new/img/warehouse.png' %}">
+              </div>
+              <h3 class="pad-bt15" style="font-size: 15px; margin-bottom: 5px;" >CIVIL WORKS</h3>
+              <p>We engage professionally in the building and construction of state of art facilities <br> <a href="{% url 'index:services' 'civilworks' %}">Read More...</a>  <!-- <button  class="btn btn-primary">Read More...</button> --></p> 
+            </div>
+          </div>
+
+<div class="col-md-3 col-sm-6 col-xs-6 " style="font-size: 10pt">
+            <div class="wrap-item text-center">
+              <div class="item-img">
+                <img src="{% static 'new/img/handle.png' %}">
+              </div>
+              <h3 class="pad-bt15" style="font-size: 15px; margin-bottom: 5px;" >LOGISTICS AND HAULVAGE</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod <br> <a href="{% url 'index:services' 'logisticsandhaulvages' %}">Read More...</a>  <!-- <button  class="btn btn-primary">Read More...</button> --></p> 
+            </div>
+          </div>
+
+
+          <div class="col-md-3 col-sm-6 col-xs-6 " style="font-size: 10pt">
+            <div class="wrap-item text-center">
+              <div class="item-img">
+                <img src="{% static 'new/img/real_estate.png' %}">
+              </div>
+              <h3 class="pad-bt15" style="font-size: 15px; margin-bottom: 5px;" >REAL ESTATES</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor<br> <a href="{% url 'index:services' 'realestates' %}">Read More...</a>  <!-- <button  class="btn btn-primary">Read More...</button> --></p>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6 col-xs-6 " style="font-size: 10pt"" >
+            <div class="wrap-item text-center">
+              <div class="item-img">
+                <img src="{% static 'new/img/ser04.png' %}">
+              </div>
+              <h3 class="pad-bt15" style="font-size: 15px; margin-bottom: 5px;" >GENERAL CONTRACTS</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor<br> <a href="{% url 'index:services' 'generalcontracts' %}">Read More...</a>  <!-- <button  class="btn btn-primary">Read More...</button> --></p> 
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
+
+
+    <!---->
+    <!---->
+
+<!--     <section id="portfolio" class="section-padding wow fadeInUp delay-05s">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <h2 class="service-title pad-bt15">Our Recent Works</h2>
+            <p class="sub-title pad-bt15">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod<br>tempor incididunt ut labore et dolore magna aliqua.</p>
+            <hr class="bottom-line">
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item padding-right-zero mr-btn-15">
+            <figure>
+              <img src="{% static 'new/img/port01.jpg' %}" class="img-responsive">
+              <figcaption>
+                <h2>Project For Everyone</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nost.</p>
+              </figcaption>
+            </figure>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item padding-right-zero mr-btn-15">
+            <figure>
+              <img src="{% static 'new/img/port02.jpg' %}" class="img-responsive">
+              <figcaption>
+                <h2>Project For Everyone</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nost.</p>
+              </figcaption>
+            </figure>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item padding-right-zero mr-btn-15">
+            <figure>
+              <img src="{% static 'new/img/port03.jpg' %}" class="img-responsive">
+              <figcaption>
+                <h2>Project For Everyone</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nost.</p>
+              </figcaption>
+            </figure>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item padding-right-zero mr-btn-15">
+            <figure>
+              <img src="{% static 'new/img/port04.jpg' %}" class="img-responsive">
+              <figcaption>
+                <h2>Project For Everyone</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nost.</p>
+              </figcaption>
+            </figure>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item padding-right-zero mr-btn-15">
+            <figure>
+              <img src="{% static 'new/img/port05.jpg' %}" class="img-responsive">
+              <figcaption>
+                <h2>Project For Everyone</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nost.</p>
+              </figcaption>
+            </figure>
+          </div>
+          <div class="col-md-4 col-sm-6 col-xs-12 portfolio-item padding-right-zero mr-btn-15">
+            <figure>
+              <img src="{% static 'new/img/port06.jpg' %}" class="img-responsive">
+              <figcaption>
+                <h2>Project For Everyone</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nost.</p>
+              </figcaption>
+            </figure>
+          </div>
+        </div>
+      </div>
+    </section> -->
+    <!---->
+    <!---->
+
+
+
+
+    <section id="feature" class="section-padding wow fadeIn delay-05s" style="margin-top: 40px;">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="wrap-item text-center">
+              <div class="item-img">
+                <img src="{% static 'new/img/ser01.png' %}">
+              </div>
+              <h3 class="pad-bt15">OUR VISION</h3>
+              <p>To be the most excellent company among the rest.</p>
+            </div>
+          </div>
+
+       <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="wrap-item text-center">
+              <div class="item-img">
+                <img src="{% static 'new/img/goal.png' %}">
+              </div>
+              <h3 class="pad-bt15">OUR MISSION</h3>
+              <p>To consistently provide excellent services to our clients through quality and dedicated means.</p>
+            </div>
+          </div>
+
+
+       <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="wrap-item text-center">
+              <div class="item-img">
+                <img src="{% static 'new/img/approval.png' %}">
+              </div>
+              <h3 class="pad-bt15">OUR CORE VALUES</h3>
+              <ul>
+                <li><b>*</b> The fear of God in all our transactions- which for us is the most important</li>
+                <li><b>*</b>Integrity in business and relationships</li>
+                <li><b>*</b>Delivery of quality and excellent service at no extra cost to our clients</li>
+                <li><b>*</b>Maximum respect to all our stakeholders at home and abroad</li>
+              </ul>
+            </div>
+          </div>
+       </div>
+      </div>
+    </section>
+
+
+
+
+
+
+
+
+
+
+    <section id="testimonial" class="wow fadeInUp delay-05s">
+      <div class="bg-testicolor">
+        <div class="container section-padding">
+          <div class="row">
+          <center><h3 style="color: white;">Some Of Our Clients</h3></center>
+            <div class="testimonial-item">
+              <ul class="bxslider">
+                <li>
+                  <blockquote>
+                    <img src="{% static 'new/img/thumb.png' %}" class="img-responsive">
+                    <p>University Of Benin</p>
+                  </blockquote>
+                  <!-- <small>Shaun Paul, Client</small> -->
+                </li>
+                <li>
+                  <blockquote>
+                    <img src="{% static 'new/img/thumb.png' %}" class="img-responsive">
+                    <p>So here is us, on the raggedy edge. Don't push me, and I won't push you. </p>
+                  </blockquote>
+                  <small>Marry Smith, Client</small>
+                </li>
+                <li>
+                  <blockquote>
+                    <img src="{% static 'new/img/thumb.png' %}" class="img-responsive">
+                    <p>Come a day there won't be room for naughty men like us to slip about at all. This job goes south, there well may not be another.</p>
+                  </blockquote>
+                  <small>Vivek Singh, Client</small>
+                </li>
+                <li>
+                  <blockquote>
+                    <img src="{% static 'new/img/thumb.png' %}" class="img-responsive">
+                    <p>So here is us, on the raggedy edge. Don't push me, and I won't push you.</p>
+                  </blockquote>
+                  <small>John Doe, Client</small>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+<!--     <section id="contact" class="section-padding wow fadeInUp delay-05s">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center white">
+            <h2 class="service-title pad-bt15">Keep in touch with us</h2>
+            <p class="sub-title pad-bt15">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod<br>tempor incididunt ut labore et dolore magna aliqua.</p>
+            <hr class="bottom-line white-bg">
+          </div>
+          <div class="col-md-6 col-sm-6 col-xs-12">
+            <div class="loction-info white">
+              <p><i class="fa fa-map-marker fa-fw pull-left fa-2x"></i>A99 Adam Street<br>Texas, TX 555072</p>
+              <p><i class="fa fa-envelope-o fa-fw pull-left fa-2x"></i>info@baker.com</p>
+              <p><i class="fa fa-phone fa-fw pull-left fa-2x"></i>+41 5787 2323</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-sm-6 col-xs-12">
+            <div class="contact-form">
+              <div id="sendmessage">Your message has been sent. Thank you!</div>
+              <div id="errormessage"></div>
+              <form action="" method="post" role="form" class="contactForm">
+                <div class="col-md-6 padding-right-zero">
+                  <div class="form-group">
+                    <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                    <div class="validation"></div>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="form-group">
+                    <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                    <div class="validation"></div>
+                  </div>
+                </div>
+                <div class="col-md-12">
+                  <div class="form-group">
+                    <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                    <div class="validation"></div>
+                  </div>
+                </div>
+                <div class="col-md-12">
+                  <div class="form-group">
+                    <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                    <div class="validation"></div>
+                  </div>
+                  <button type="submit" class="btn btn-primary btn-submit">SEND NOW</button>
+                </div>
+              </form>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section> -->
+    <!---->
+    <!---->
+
+    {% endblock %}
